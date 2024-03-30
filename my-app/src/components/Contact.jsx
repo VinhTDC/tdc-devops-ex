@@ -12,8 +12,7 @@ export default function Contact() {
                     <div className="col-md-6">
                         <div className="contact_main">
                             <div className="contact_bt"><a href="#">Contact Form</a></div>
-                            <div className="newletter_bt"><a href="#">Newsletter</a></div>
-                        </div>
+                            <div className="newletter_bt"><a href="#">Newsletter</a></div>//</div>
                     </div>
                 </div>
             </div>
